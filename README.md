@@ -1,2 +1,6 @@
 # Group-projectCOMP8325
-This repository contains the AI COMP 8325 group project completed by Adithya Sanjana Reddy Chilumula and Sai Divya Kandhadi  
+This repository contains the AI COMP 8325 group project completed by Adithya Sanjana Reddy Chilumula and Sai Divya Kandhadi. We have chosen the Probe dataset and Malicious URL dataset for this project. For ease of completing the project we have shared the workload equally as follows:
+
+Probing/Port Scan Detection: This dataset was done by Adithya Sanjana Reddy Chilumula Student id: 46130713. Data preprocessing such as missing value handling, feature engineering, hyperparameter tuning was performed on the probe dataset to prepare the data for anomaly detection models. Isolation Forest, Random Forest Classifier and SVM models were used for anomaly detection. Model comparision metrics like accuracy score, execution time, AUC-ROC curve and final results were visualised in graphs and charts. 
+
+Malicious URL Detection: This dataset was done by Sai Divya Kandhadi, student ID: 46724109 .Feature selection and dataprocessing such as duplication removal were performed .The code for this dataset contains comparision between various anomaly detection models. Accuracy score, confusion matrix and execution time were used to compare the models and the results were visualised.  
